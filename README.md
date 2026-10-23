@@ -1,1 +1,6 @@
 # IC Git Exercício
+
+# Funcionalidades
+
+
+
