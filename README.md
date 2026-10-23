@@ -2,7 +2,7 @@
 
 # Funcionalidades
 
-# O que aprendis
+# O que aprendi
 
 
 
